@@ -1,0 +1,11 @@
+Crime and Punishment,Fyodor Dostoyevsky,978-0-140-44913-6,1866
+Don Quixote,Cervantes,978-0-14-243723-0,01-16-1605
+Farenheit 451,Ray Bradbury,978-1-4516-7331-9,10-19-1953
+Genuine Lies,Nora Roberts,978-0-553-38642-4,1991
+Tales of the City,Armistead Maupin,978-0-06-135830-2,09-08-1978
+The Giver,Lois Lowry,978-0-544-43078-5,1993
+The Haunting of Hill House,Shirley Jackson,978-1-101-94879-8,1959
+The Secret Garden,Frances Hodgson Burnett,978-1-4041-1285-8,1911
+The Story of Codes,Stephen Pincock,978-1-911130-89-5,2019
+Toward the Morning,Hervey Allen,978-0-65765-76,01-01-1948
+Mya's Great Adventures,Mya Porche',11-24-2004,06-21-1996
